@@ -1,0 +1,5 @@
+
+SUBJ: Learning Python 
+TIME: 2 
+DATE: 2025-04-11
+
