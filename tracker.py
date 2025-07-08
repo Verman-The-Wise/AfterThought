@@ -1,7 +1,7 @@
 from datetime import date
 print("MENU\n 1 : Create new Period of time\n 2 : Show the logs\n 3 : Exit")
 
-file_path = "tracker.txt"
+file_path = "tracker.kv"
 
 def option1():
     subject = input("Choose subject for the time period like Science, etc: ")
